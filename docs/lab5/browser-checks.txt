@@ -1,0 +1,20 @@
+PASS initial six cards
+PASS default image for empty source
+PASS all card images decoded
+PASS two disabled menu buttons
+PASS slider does not immediately filter
+PASS submit filters to electricity and gas
+PASS next stays in filtered collection
+PASS next wraps
+PASS filter survives page navigation
+PASS empty filter handled
+PASS reset restores six cards
+PASS default video selected
+PASS default video is valid
+PASS effect updates title
+PASS unknown item handled
+PASS broken image also falls back
+PASS no backend API calls
+PASS no horizontal overflow at 320px
+PASS no JavaScript errors
+All UI checks passed; no screenshots taken.
